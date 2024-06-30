@@ -1,0 +1,18 @@
+#id_style{
+    color: red;
+    background-color: blue;
+    font-size: xx-large;
+}
+.class_style{
+    color: purple;
+    background-color: coral;
+}
+h3{
+    color: cornflowerblue;
+    font-size: x-large;
+}
+h4{
+    font-size: large;
+    color: blueviolet;
+    background-color: paleturquoise;
+}
